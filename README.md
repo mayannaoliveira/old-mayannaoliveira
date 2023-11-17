@@ -109,7 +109,11 @@
 <p> Articles in DEV </p>
 
  <!-- BLOG-POST-LIST:START -->
- <!-- BLOG-POST-LIST:END -->
+- [Resumo da documentação do Heroku com Python](https://dev.to/mayannaoliveira/resumo-da-documentacao-do-heroku-com-python-3bmj)
+- [VPN Gratuita no Linux  com a ProtonVPN](https://dev.to/mayannaoliveira/vpn-gratuita-no-linux-com-a-protonvpn-2ohl)
+- [Shortcut para uma AppImage](https://dev.to/mayannaoliveira/shortcut-para-uma-appimage-koo)
+- [Configurações do Visual Studio Code com comentários](https://dev.to/mayannaoliveira/configuracoes-do-visual-studio-code-com-comentarios-2c8p)
+<!-- BLOG-POST-LIST:END -->
 
 
 <p> Recent Activity </p>
