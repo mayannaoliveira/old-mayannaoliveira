@@ -35,7 +35,7 @@
 
 - 📝 I regularly write articles in [DEV](https://dev.to/mayannaoliveira).
 
-- 🔧 I have been working with **Rest APIs, JMeter, SoapUI, Selenium, Cucumber, Ruby, Python, Django, MobaXterm, Docker and others**.
+- 🔧 I have been working with **Rest APIs, JMeter, SoapUI, Selenium, Cucumber, Ruby, Python, Django, MobaXterm, Docker, RM Systems, PuTTY, SSH, Bash, Linux Server, VPN, JSON, XML, Unity Testing, Functional and Mon Functional Testing**.
 
 - 📫 Keep in touch **mayannasoliveira@gmail.com**.
 
