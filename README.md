@@ -106,7 +106,7 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayannaoliveira&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" />
 </p>
 
-<p> Articles in DEV </p>
+<h3 align="left"> Articles in DEV </h3>
 
  <!-- BLOG-POST-LIST:START -->
 - [Resumo da documentação do Heroku com Python](https://dev.to/mayannaoliveira/resumo-da-documentacao-do-heroku-com-python-3bmj)
@@ -116,10 +116,9 @@
 <!-- BLOG-POST-LIST:END -->
 
 
-<p> Recent Activity </p>
+<h3 align="left"> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dark&locale=en" alt="mayannaoliveira" /></p>
