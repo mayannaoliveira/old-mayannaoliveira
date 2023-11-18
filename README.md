@@ -115,6 +115,12 @@
 - [Configurações do Visual Studio Code com comentários](https://dev.to/mayannaoliveira/configuracoes-do-visual-studio-code-com-comentarios-2c8p)
 <!-- BLOG-POST-LIST:END -->
 
+<h3 align="left">🏅Courses Badges </h3>
+
+<!--START_SECTION:badges-->
+<!--END_SECTION:badges-->
+
+Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira).
 
 <h3 align="left">⚡Recent Activity </h3>
 
