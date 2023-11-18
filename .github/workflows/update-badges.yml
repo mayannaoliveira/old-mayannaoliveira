@@ -1,5 +1,5 @@
 name: Update badges
-# Creddly Badges
+
 on:
   schedule:
     # Runs at 2am UTC
@@ -17,5 +17,5 @@ jobs:
           COMMIT_MESSAGE: "My commit message to update badges" # optional
           CREDLY_USER: mayannaoliveira # optional, but default will use the same from github
           CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
-          BADGE_SIZE: the resolution to the badges images 55 # optional, 110x110 default
+          BADGE_SIZE: the resolution to the badges images # optional, 110x110 default
           NUMBER_LAST_BADGES: the maximum last badges to show # optional, will show the 48 in the first page
