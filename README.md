@@ -118,6 +118,17 @@
 <h3 align="left">🏅Courses Badges </h3>
 
 <!--START_SECTION:badges-->
+[![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/2f9a56fc-fb07-4a95-b566-16b3386d2bb0 "Introduction to Data Science")
+[![Introducing Cloud Security on SAP Business Technology Platform - Record of Achievement](https://images.credly.com/size/110x110/images/ad826ccf-02ab-40e6-bc63-bc3884a844a9/image.png)](http://www.credly.com/badges/096182da-a881-4c14-b0c5-4f201e2fdb4a "Introducing Cloud Security on SAP Business Technology Platform - Record of Achievement")
+[![Introduction to Cybersecurity](https://images.credly.com/size/110x110/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png)](http://www.credly.com/badges/08297a6f-c74c-42b0-a027-5d6eddae7f6b "Introduction to Cybersecurity")
+[![Using SAP Service Cloud - Record of Achievement](https://images.credly.com/size/110x110/images/e1ff3776-330e-436c-92ab-e9bf72dfd4d9/image.png)](http://www.credly.com/badges/3a5891cc-38e3-4ca8-99bd-f65f23237172 "Using SAP Service Cloud - Record of Achievement")
+[![Discovering SAP Sales Cloud - Record of Achievement](https://images.credly.com/size/110x110/images/5c26431d-5b2c-4d4c-9e0e-8f9daf1bfc47/image.png)](http://www.credly.com/badges/7432901d-f747-4168-baec-12f3c854d383 "Discovering SAP Sales Cloud - Record of Achievement")
+[![Data Analysis Using Python](https://images.credly.com/size/110x110/images/ba34cb1c-4344-43f5-9685-55e2e901c0f0/Data_Analysis_using_Python.png)](http://www.credly.com/badges/0df4cec0-9087-441b-bc64-abafd664993f "Data Analysis Using Python")
+[![Data Science with Scala](https://images.credly.com/size/110x110/images/0c067956-9a64-45ee-8471-c794e3e3f57c/Data_Science_with_Scala_-_Pwr_by_Lightbend.png)](http://www.credly.com/badges/c4f51279-4c7c-48dc-9665-98afe8e6cc4e "Data Science with Scala")
+[![Deep Learning Essentials](https://images.credly.com/size/110x110/images/f4f08b45-aa38-4242-8b05-dcdac6811504/Deep_Learning_Essentials.png)](http://www.credly.com/badges/25ac4b76-ebea-4d01-8933-a038ff6569ee "Deep Learning Essentials")
+[![Docker Essentials: A Developer Introduction](https://images.credly.com/size/110x110/images/08216781-93cb-4ba1-8110-8eb3401fa8ce/Docker_Essentials_-_ISDN.png)](http://www.credly.com/badges/5f3e704e-4369-4010-b50c-5168db1fa98a "Docker Essentials: A Developer Introduction")
+[![Data Science Foundations - Level 1](https://images.credly.com/size/110x110/images/5ca7b236-6105-4154-ba22-c8ae12ec1d8c/Data_Sci_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/04760ec1-b407-4860-b17c-35167bff17e2 "Data Science Foundations - Level 1")
+[![Machine Learning with Python - Level 1](https://images.credly.com/size/110x110/images/53caf8cc-b5e9-4424-b4a7-7b069fa13db4/Machine_Learning_with_Python.png)](http://www.credly.com/badges/64d372d7-bb00-44d4-88e6-afb2ff74d620 "Machine Learning with Python - Level 1")
 <!--END_SECTION:badges-->
 
 Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira).
