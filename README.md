@@ -109,10 +109,10 @@
 <h3 align="left">🔭Articles in DEV </h3>
 
  <!-- BLOG-POST-LIST:START -->
+- [Introdução aos Comandos Git](https://dev.to/mayannaoliveira/introducao-aos-comandos-git-3am7)
 - [Atualização do Ubuntu via Terminal](https://dev.to/mayannaoliveira/atualizacao-do-ubuntu-via-terminal-2mp9)
 - [Instalação do Docker no Ubuntu](https://dev.to/mayannaoliveira/instalacao-do-docker-no-ubuntu-3jej)
 - [Resumo da documentação do Heroku com Python](https://dev.to/mayannaoliveira/resumo-da-documentacao-do-heroku-com-python-3bmj)
-- [VPN Gratuita no Linux  com a ProtonVPN](https://dev.to/mayannaoliveira/vpn-gratuita-no-linux-com-a-protonvpn-2ohl)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">🏅Courses Badges </h3>
