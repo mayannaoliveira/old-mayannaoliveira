@@ -193,7 +193,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 
 <div class="row" align="center">
   <div class="column">
-    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:50%">
+    <img src="https://awesome-github-stats.azurewebsites.net/user-stats/mayannaoliveira?cardType=github&theme=dark&preferLogin=false" alt="mayannaoliveira" style="width:49%">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mayannaoliveira&show_icons=true&theme=dark&locale=en&layout=compact" alt="mayannaoliveira" style="width:40%">
   </div>
 </div>
