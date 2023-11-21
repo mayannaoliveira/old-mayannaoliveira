@@ -53,12 +53,16 @@
 
 - 🏆 Certifications: `CTFL-ISTQB®`, `SFC™`, `SCMS-F™`, `PMEC™`, `LSSWB™` e `SSYB™`.
 
-- 🏓 Some of my hobbies is read books, hiking, be with my friends and travel with my family.
+- 🏓 Some of my hobbies is read books, hiking with my friends and travel with my family.
 
-<p align="center">
-<img src="https://stackoverflow-card.vercel.app/?userID=16884312&theme=stackoverflow-dark" alt="mayannaoliveira" />
-</p>
+- 🎮 I like to play ![PUBG Mobile](https://img.shields.io/badge/PUBG-FEAB02.svg?style=flat&logo=PUBG&logoColor=white) in my free time.
 
+<div class="row" align="center">
+  <div class="column">
+    <img src="https://stackoverflow-card.vercel.app/?userID=16884312&theme=stackoverflow-dark" style="width:51%">
+    <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=monokai&row=2&column=3)](https://github.com/mayannaoliveira/github-profile-trophy" alt="mayannaoliveira" style="width:35%">
+  </div>
+</div>
 
 <!-- StackOverflow -->
 <!-- [![Mayanna StackOverflow](https://stackoverflow-card.vercel.app/?userID=16884312&theme=stackoverflow-dark)](https://stackoverflow.com/users/16884312/mayanna) -->
@@ -72,6 +76,11 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 </p>
 
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) 
+
+<details>
+ <summary> 
+ <h3 align="left">🪚 My Skills</h3> 
+ </summary>
 
 <details>
  <summary>Testing tools</summary>
@@ -178,6 +187,8 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 <details>
   <summary>System parameterization</summary>
    ![putty](https://img.shields.io/badge/PuTTY-grey.svg?style=flat&logo=GNUBash&logoColor=white) ![rm](https://img.shields.io/badge/Revenue%20Management-E7157B.svg?style=flat&logo=AWS-Organizations&logoColor=white)  ![Diameter](https://img.shields.io/badge/Diameter%20Protocol-4285F4.svg?style=flat&logo=dask&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-4D4D4D.svg?style=flat&logo=Windows-Terminal&logoColor=white) ![xshell](https://img.shields.io/badge/Xshell-green.svg?style=flat&logo=Serverless&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-blue.svg?style=flat&logo=Winmate&logoColor=white) ![iterm](https://img.shields.io/badge/iTerm2-000000.svg?style=flat&logo=iTerm2&logoColor=white) ![MremoteNG](https://img.shields.io/badge/MremoteNG-005A9C.svg?style=flat&logo=Semantic-Web&logoColor=white) 
+</details>
+
 </details>
 
 <div class="row" align="center">
