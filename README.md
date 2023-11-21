@@ -164,12 +164,12 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 </details>
 
 <details>
-  <summary>My latest work</summary>
+  <summary>Productivity and communication</summary>
   ![joplin](https://img.shields.io/badge/Joplin-1071D3.svg?style=flat&logo=Joplin&logoColor=white) ![notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white) ![obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=flat&logo=Obsidian&logoColor=white) ![powerapp](https://img.shields.io/badge/Power%20Apps-742774.svg?style=flat&logo=Power-Apps&logoColor=white) ![todoist](https://img.shields.io/badge/Todoist-E44332.svg?style=flat&logo=Todoist&logoColor=white) ![zoom](https://img.shields.io/badge/Zoom-0B5CFF.svg?style=flat&logo=Zoom&logoColor=white) ![skype](https://img.shields.io/badge/Skype-00AFF0.svg?style=flat&logo=Skype&logoColor=white)   ![teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=flat&logo=Microsoft-Teams&logoColor=white) ![ring](https://img.shields.io/badge/RingCentral-1C9AD6.svg?style=flat&logo=Ring&logoColor=white)
 </details>
 
 <details>
-  <summary>System parameterization</summary>
+  <summary>Mobile testing</summary>
    
    ![nfc](https://img.shields.io/badge/NFC-002E5F.svg?style=flat&logo=NFC&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white) ![ios](https://img.shields.io/badge/IOS-000000.svg?style=flat&logo=Apple&logoColor=white) ![playstore](https://img.shields.io/badge/Google%20PlayStore-414141.svg?style=flat&logo=Google-Play&logoColor=white) ![applestore](https://img.shields.io/badge/App%20Store-0D96F6.svg?style=flat&logo=App-Store&logoColor=white) ![bluetooth](https://img.shields.io/badge/Bluetooth-0082FC.svg?style=flat&logo=Bluetooth&logoColor=white) ![mediatek](https://img.shields.io/badge/MediaTek-EC9430.svg?style=flat&logo=MediaTek&logoColor=white) ![Snapdragon](https://img.shields.io/badge/Snapdragon-red.svg?style=flat&logo=Qualcomm&logoColor=white) ![Chromecast](https://img.shields.io/badge/Chromecast-999999.svg?style=flat&logo=Chromecast&logoColor=white) ![flashtools](https://img.shields.io/badge/Flash%20Tools-black.svg?style=flat&logo=Cloudflare-Pages&logoColor=white)
 
