@@ -9,25 +9,25 @@
 
 <p align="center">
     <a href="https://bio.link/mayanna">
-    <img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=for-the-badge&logo=Bio-Link&logoColor=white"/>
+    <img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=flat&logo=Bio-Link&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/mayannaoliveira/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white"/>
     </a>
     <a href="https://www.credly.com/users/mayannaoliveira/">
-    <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=for-the-badge&logo=Credly&logoColor=white"/>
+    <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white"/>
     </a>
     <a href="https://dev.to/mayannaoliveira">
-    <img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=for-the-badge&logo=devdotto&logoColor=white"/>
+    <img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white"/>
     </a>
     <a href=mailto:mayannasoliveira@gmail.com>
-    <img alt="linkedin" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=for-the-badge&logo=Gmail&logoColor=white"/>
+    <img alt="linkedin" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
     </a>
     <a href="https://github.com/mayannaoliveira">
-    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=GitHub&logoColor=white"/>
     </a>
     <a href="https://stackoverflow.com/users/16884312/mayanna">
-    <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=for-the-badge&logo=Stack-Overflow&logoColor=white"/>
+    <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
     </a>
 </p> 
 
