@@ -2,11 +2,6 @@
 <h5 align="center">A System Analyst graduated in System Analysis and Development with a degree in System Engineering and certified CTFL-ISTQB® that is actually working as IT Freelancer.
 </h3>
 
-<!-- Profile View 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=mayannaoliveira&label=Profile%20views&color=0e75b6&style=flat)](https://stackoverflow.com/users/16884312/mayanna" />
-</p> -->
-
 <p align="center">
     <a href="https://bio.link/mayanna">
     <img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=flat&logo=Bio-Link&logoColor=white"/>
@@ -39,9 +34,9 @@
     <img alt="Mayanna Oliveira" src="img/cover.png"/>
     </a></p> 
 
-- 🌱 I’m currently learning more about ![sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white), ![visualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) and ![csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=flat&logo=C-Sharp&logoColor=white)
+- 🌱 I’m currently learning more about ![sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white), ![visualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) and ![csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=flat&logo=C-Sharp&logoColor=white).
 
-- 📝 I regularly write articles in [DEV](https://dev.to/mayannaoliveira).
+- 📝 I regularly write articles in [![devto](https://img.shields.io/badge/DEV-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white)]([https://linktr.ee/mayannaoliveira](https://dev.to/mayannaoliveira)).
 
 - 🔧 I have been working with `Revenue Management`, `DevOps`,  `APIs`, `Linux`, `Unity Testing`, `Functional Testing` and `Non Functional Testing`.
 
@@ -56,6 +51,8 @@
 - 🏓 Some of my hobbies is read books, hiking with my friends and travel with my family.
 
 - 🎮 I like to play ![PUBG Mobile](https://img.shields.io/badge/PUBG-FEAB02.svg?style=flat&logo=PUBG&logoColor=white) in my free time.
+  
+- 😺 My profile views in ![ProfileViews](https://komarev.com/ghpvc/?username=mayannaoliveira&label=Github&color=0e75b6&style=flat&logo=github).
 
 <div class="row" align="center">
   <div class="column">
@@ -234,9 +231,3 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 1. 🗣 Commented on [#2632](https://github.com/rossjrw/rossjrw/issues/2632#issuecomment-1807387271) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 2. ❗ Opened issue [#2632](https://github.com/rossjrw/rossjrw/issues/2632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
-
-
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mayannaoliveira&show_icons=true&theme=dark&locale=en" alt="mayannaoliveira" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mayannaoliveira&theme=dark" alt="mayannaoliveira" /></p> -->
