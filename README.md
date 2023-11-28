@@ -73,7 +73,7 @@
 I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and apps.
 </p>
 
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) 
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) 
 
 <details>
  <summary> 
