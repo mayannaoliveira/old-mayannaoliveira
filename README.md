@@ -210,6 +210,7 @@ _Please, check my articles in [Dev](https://dev.to/mayannaoliveira)._
 <h3 align="left">🏅Courses Badges </h3>
 
 <!--START_SECTION:badges-->
+[![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/4e5341a0-031a-477d-a3c6-7a641e79dc2c/Hadoop_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/73ca3db7-9bbe-485f-9467-92a1b64fae2a "Hadoop Foundations - Level 1")
 [![Build Your Own Chatbot - Level 1](https://images.credly.com/size/110x110/images/b5243e36-b05f-426b-994a-87a535f1c217/Build_your_own_chatbot_-_CC_v3.png)](http://www.credly.com/badges/32426096-8231-4933-a14a-b6d76e798d24 "Build Your Own Chatbot - Level 1")
 [![Introduction to Data Science](https://images.credly.com/size/110x110/images/b38a42e0-dc58-4ce2-b6c0-28d978e8aaad/image.png)](http://www.credly.com/badges/2f9a56fc-fb07-4a95-b566-16b3386d2bb0 "Introduction to Data Science")
 [![Introducing Cloud Security on SAP Business Technology Platform - Record of Achievement](https://images.credly.com/size/110x110/images/ad826ccf-02ab-40e6-bc63-bc3884a844a9/image.png)](http://www.credly.com/badges/096182da-a881-4c14-b0c5-4f201e2fdb4a "Introducing Cloud Security on SAP Business Technology Platform - Record of Achievement")
