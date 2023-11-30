@@ -38,6 +38,8 @@
 
 - 📝 I regularly write articles in [![devto](https://img.shields.io/badge/DEV-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mayannaoliveira).
 
+- My profile in Stackoverflow [![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna).
+
 - 🔧 I have been working with `Revenue Management`, `DevOps`,  `APIs`, `Linux`, `Unity Testing`, `Functional Testing` and `Non Functional Testing`.
 
 - 🗣 I speak `Portuguese`, `English` and `Spanish`.
