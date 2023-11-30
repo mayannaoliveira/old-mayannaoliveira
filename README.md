@@ -244,16 +244,10 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ---
 
-<!--START_SECTION:waka-->
-
-```txt
-Markdown     19 mins         ██████████▒░░░░░░░░░░░░░░   40.83 %
-Docker       17 mins         █████████▒░░░░░░░░░░░░░░░   37.65 %
-YAML         9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
-```
-
-<!--END_SECTION:waka-->
+<!-- TODO-IST:START -->
+<!-- TODO-IST:END -->
