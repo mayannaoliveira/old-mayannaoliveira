@@ -196,7 +196,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
   </div>
 </div>
 
-<h3 align="left">🔭Articles in DEV </h3>
+<h3 align="left">🔭 Articles in DEV </h3>
 
  <!-- BLOG-POST-LIST:START -->
 - [Introdução aos Comandos Git](https://dev.to/mayannaoliveira/introducao-aos-comandos-git-3am7)
@@ -207,7 +207,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 
 _Please, check my articles in [Dev](https://dev.to/mayannaoliveira)._
 
-<h3 align="left">🏅Courses Badges </h3>
+<h3 align="left">🏅 Courses Badges </h3>
 
 <!--START_SECTION:badges-->
 [![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/4e5341a0-031a-477d-a3c6-7a641e79dc2c/Hadoop_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/73ca3db7-9bbe-485f-9467-92a1b64fae2a "Hadoop Foundations - Level 1")
@@ -236,13 +236,18 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 
 ---
 
-<p align="center">
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
-</p>
+<h3 align="left">📋 Todoist Status </h3>
+
+<!-- TODO-IST:START -->
+🏆  267 Karma Points           
+🌸  Completed 0 tasks today           
+✅  Completed 0 tasks so far           
+⏳  Longest streak is 0 days
+<!-- TODO-IST:END -->
+
+---
+
+<h3 align="left">⏲ Wakatime Status </h3>
 
 <!--START_SECTION:waka-->
 
@@ -258,9 +263,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
-<!-- TODO-IST:START -->
-🏆  267 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 0 tasks so far           
-⏳  Longest streak is 0 days
-<!-- TODO-IST:END -->
+<p align="center">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
+</p>
