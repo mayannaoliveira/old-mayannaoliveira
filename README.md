@@ -233,3 +233,13 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 1. 🗣 Commented on [#2632](https://github.com/rossjrw/rossjrw/issues/2632#issuecomment-1807387271) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 2. ❗ Opened issue [#2632](https://github.com/rossjrw/rossjrw/issues/2632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
 <!--END_SECTION:activity-->
+
+---
+
+<p align="center">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
+</p>
