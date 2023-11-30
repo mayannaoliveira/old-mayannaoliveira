@@ -243,3 +243,8 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
 </p>
+
+---
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
