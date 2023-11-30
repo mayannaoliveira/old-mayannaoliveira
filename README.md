@@ -44,7 +44,7 @@
 
 - 📫 Keep in touch [![email](https://img.shields.io/badge/mayannasoliveira@gmail.com-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:mayannasoliveira@gmail.com).
   
-- 📄 Please check abour my work experiences in my [LinkedIn](https://www.linkedin.com/in/mayannaoliveira/).
+- 📄 Please check abour my work experiences in my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayannaoliveira/).
 
 - 🏆 Certifications: `CTFL-ISTQB®`, `SFC™`, `SCMS-F™`, `PMEC™`, `LSSWB™` e `SSYB™`.
 
