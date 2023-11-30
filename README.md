@@ -264,6 +264,10 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 ---
 
 <p align="center">
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon" alt="github widgetbox"/></a>
+</p>
+
+<p align="center">
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
