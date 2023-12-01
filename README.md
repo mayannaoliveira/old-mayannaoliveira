@@ -30,7 +30,7 @@
 </p> 
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/mayannaoliveira/">
+    <a href="https://bio.link/mayanna">
     <img alt="Mayanna Oliveira" src="img/cover.png"/>
     </a></p> 
 
