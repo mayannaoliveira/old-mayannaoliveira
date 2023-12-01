@@ -128,65 +128,69 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 <details>
   <summary>SEO</summary>
   
-  ![Yoast](https://img.shields.io/badge/Yoast%20SEO-A61E69.svg?style=flat&logo=Yoast&logoColor=white) ![Ads](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=flat&logo=Google-Ads&logoColor=white) ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=flat&logo=Google-Analytics&logoColor=white) ![AdSense](https://img.shields.io/badge/Google%20AdSense-4285F4.svg?style=flat&logo=Google-AdSense&logoColor=white) ![Tag-Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=flat&logo=Google-Tag-Manager&logoColor=white) ![PageSpeed](https://img.shields.io/badge/PageSpeed%20Insights-4285F4.svg?style=flat&logo=PageSpeed-Insights&logoColor=white) ![semrush](https://img.shields.io/badge/Semrush-FF642D.svg?style=flat&logo=Semrush&logoColor=white) ![simple](https://img.shields.io/badge/Simple%20Analytics-FF4F64.svg?style=flat&logo=Simple-Analytics&logoColor=white)
+![Yoast](https://img.shields.io/badge/Yoast%20SEO-A61E69.svg?style=flat&logo=Yoast&logoColor=white) ![Ads](https://img.shields.io/badge/Google%20Ads-4285F4.svg?style=flat&logo=Google-Ads&logoColor=white) ![Analytics](https://img.shields.io/badge/Google%20Analytics-E37400.svg?style=flat&logo=Google-Analytics&logoColor=white) ![AdSense](https://img.shields.io/badge/Google%20AdSense-4285F4.svg?style=flat&logo=Google-AdSense&logoColor=white) ![Tag-Manager](https://img.shields.io/badge/Google%20Tag%20Manager-246FDB.svg?style=flat&logo=Google-Tag-Manager&logoColor=white) ![PageSpeed](https://img.shields.io/badge/PageSpeed%20Insights-4285F4.svg?style=flat&logo=PageSpeed-Insights&logoColor=white) ![semrush](https://img.shields.io/badge/Semrush-FF642D.svg?style=flat&logo=Semrush&logoColor=white) ![simple](https://img.shields.io/badge/Simple%20Analytics-FF4F64.svg?style=flat&logo=Simple-Analytics&logoColor=white)
 
 </details>
 
 <details>
   <summary>Project management</summary>
 
-  ![Alm](https://img.shields.io/badge/HP%20Alm-0096D6.svg?style=flat&logo=HP&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=Jira&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=flat&logo=Asana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white) ![toogl](https://img.shields.io/badge/Toggl%20Track-E57CD8.svg?style=flat&logo=Toggl-Track&logoColor=white)
+![Alm](https://img.shields.io/badge/HP%20Alm-0096D6.svg?style=flat&logo=HP&logoColor=white) ![Jira](https://img.shields.io/badge/Jira-0052CC.svg?style=flat&logo=Jira&logoColor=white) ![Asana](https://img.shields.io/badge/Asana-F06A6A.svg?style=flat&logo=Asana&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-0052CC.svg?style=flat&logo=Trello&logoColor=white) ![toogl](https://img.shields.io/badge/Toggl%20Track-E57CD8.svg?style=flat&logo=Toggl-Track&logoColor=white)
 
 </details>
 
 <details>
   <summary>Cloud</summary>
 
-  ![SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4.svg?style=flat&logo=Microsoft-SharePoint&logoColor=white) ![Onedrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4.svg?style=flat&logo=Microsoft-OneDrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF.svg?style=flat&logo=Dropbox&logoColor=white) ![Drive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=flat&logo=Google-Drive&logoColor=white) 
+![SharePoint](https://img.shields.io/badge/Microsoft%20SharePoint-0078D4.svg?style=flat&logo=Microsoft-SharePoint&logoColor=white) ![Onedrive](https://img.shields.io/badge/Microsoft%20OneDrive-0078D4.svg?style=flat&logo=Microsoft-OneDrive&logoColor=white) ![Dropbox](https://img.shields.io/badge/Dropbox-0061FF.svg?style=flat&logo=Dropbox&logoColor=white) ![Drive](https://img.shields.io/badge/Google%20Drive-4285F4.svg?style=flat&logo=Google-Drive&logoColor=white) 
 
 </details>
 
 <details>
   <summary>Security</summary>
 
-  ![AnyConnect](https://img.shields.io/badge/Cisco%20AnyConnect-1BA0D7.svg?style=flat&logo=Cisco&logoColor=white) ![Authy](https://img.shields.io/badge/Authy-EC1C24.svg?style=flat&logo=Authy&logoColor=white) ![Enpass](https://img.shields.io/badge/Enpass-0D47A1.svg?style=flat&logo=Enpass&logoColor=white) 
+![AnyConnect](https://img.shields.io/badge/Cisco%20AnyConnect-1BA0D7.svg?style=flat&logo=Cisco&logoColor=white) ![Authy](https://img.shields.io/badge/Authy-EC1C24.svg?style=flat&logo=Authy&logoColor=white) ![Enpass](https://img.shields.io/badge/Enpass-0D47A1.svg?style=flat&logo=Enpass&logoColor=white) 
 
 </details>
 
 <details>
   <summary>IDEs and Editors</summary>
   
-  ![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=Notepadplusplus&logoColor=black) ![Sublime](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=flat&logo=Sublime-Text&logoColor=white)  ![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=flat&logo=Atom&logoColor=white) ![jetbrains](https://img.shields.io/badge/JetBrains-000000.svg?style=flat&logo=JetBrains&logoColor=white) ![cofigeditor](https://img.shields.io/badge/EditorConfig-FEFEFE.svg?style=flat&logo=EditorConfig&logoColor=black)
+![VSCode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Notepad](https://img.shields.io/badge/Notepad++-90E59A.svg?style=flat&logo=Notepadplusplus&logoColor=black) ![Sublime](https://img.shields.io/badge/Sublime%20Text-FF9800.svg?style=flat&logo=Sublime-Text&logoColor=white)  ![Atom](https://img.shields.io/badge/Atom-66595C.svg?style=flat&logo=Atom&logoColor=white) ![jetbrains](https://img.shields.io/badge/JetBrains-000000.svg?style=flat&logo=JetBrains&logoColor=white) ![cofigeditor](https://img.shields.io/badge/EditorConfig-FEFEFE.svg?style=flat&logo=EditorConfig&logoColor=black)
 
 </details>
 
 <details>
   <summary>Operational systems</summary>
-  ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=flat&logo=Windows-11&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=flat&logo=Fedora&logoColor=white) ![Suse](https://img.shields.io/badge/SUSE-0C322C.svg?style=flat&logo=SUSE&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black)
+ 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) ![Windows](https://img.shields.io/badge/Windows%2011-0078D4.svg?style=flat&logo=Windows-11&logoColor=white) ![Fedora](https://img.shields.io/badge/Fedora-51A2DA.svg?style=flat&logo=Fedora&logoColor=white) ![Suse](https://img.shields.io/badge/SUSE-0C322C.svg?style=flat&logo=SUSE&logoColor=white) ![linux](https://img.shields.io/badge/Linux-FCC624.svg?style=flat&logo=Linux&logoColor=black)
+
 </details>
 
 <details>
   <summary>Diagrams and architecture</summary>
 
-  ![miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=white) ![uml](https://img.shields.io/badge/UML-FABD14.svg?style=flat&logo=UML&logoColor=black) ![visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=flat&logo=Microsoft-Visio&logoColor=white) ![plantuml](https://img.shields.io/badge/Plant%20UML-red.svg?style=flat&logo=UML&logoColor=black) ![drawio](https://img.shields.io/badge/diagrams.net-F08705.svg?style=flat&logo=diagramsdotnet&logoColor=white) ![mermaid](https://img.shields.io/badge/Mermaid%20JS-FF3670.svg?style=flat&logo=uml&logoColor=white) 
+ ![miro](https://img.shields.io/badge/Miro-050038.svg?style=flat&logo=Miro&logoColor=white) ![uml](https://img.shields.io/badge/UML-FABD14.svg?style=flat&logo=UML&logoColor=black) ![visio](https://img.shields.io/badge/Microsoft%20Visio-3955A3.svg?style=flat&logo=Microsoft-Visio&logoColor=white) ![plantuml](https://img.shields.io/badge/Plant%20UML-red.svg?style=flat&logo=UML&logoColor=black) ![drawio](https://img.shields.io/badge/diagrams.net-F08705.svg?style=flat&logo=diagramsdotnet&logoColor=white) ![mermaid](https://img.shields.io/badge/Mermaid%20JS-FF3670.svg?style=flat&logo=uml&logoColor=white) 
 
 </details>
 
 <details>
   <summary>Productivity and communication</summary>
-  ![joplin](https://img.shields.io/badge/Joplin-1071D3.svg?style=flat&logo=Joplin&logoColor=white) ![notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white) ![obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=flat&logo=Obsidian&logoColor=white) ![powerapp](https://img.shields.io/badge/Power%20Apps-742774.svg?style=flat&logo=Power-Apps&logoColor=white) ![todoist](https://img.shields.io/badge/Todoist-E44332.svg?style=flat&logo=Todoist&logoColor=white) ![zoom](https://img.shields.io/badge/Zoom-0B5CFF.svg?style=flat&logo=Zoom&logoColor=white) ![skype](https://img.shields.io/badge/Skype-00AFF0.svg?style=flat&logo=Skype&logoColor=white)   ![teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=flat&logo=Microsoft-Teams&logoColor=white) ![ring](https://img.shields.io/badge/RingCentral-1C9AD6.svg?style=flat&logo=Ring&logoColor=white)
+    
+![joplin](https://img.shields.io/badge/Joplin-1071D3.svg?style=flat&logo=Joplin&logoColor=white) ![notion](https://img.shields.io/badge/Notion-000000.svg?style=flat&logo=Notion&logoColor=white) ![obsidian](https://img.shields.io/badge/Obsidian-7C3AED.svg?style=flat&logo=Obsidian&logoColor=white) ![powerapp](https://img.shields.io/badge/Power%20Apps-742774.svg?style=flat&logo=Power-Apps&logoColor=white) ![todoist](https://img.shields.io/badge/Todoist-E44332.svg?style=flat&logo=Todoist&logoColor=white) ![zoom](https://img.shields.io/badge/Zoom-0B5CFF.svg?style=flat&logo=Zoom&logoColor=white) ![skype](https://img.shields.io/badge/Skype-00AFF0.svg?style=flat&logo=Skype&logoColor=white)   ![teams](https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=flat&logo=Microsoft-Teams&logoColor=white) ![ring](https://img.shields.io/badge/RingCentral-1C9AD6.svg?style=flat&logo=Ring&logoColor=white)
 </details>
 
 <details>
   <summary>Mobile testing</summary>
    
-   ![nfc](https://img.shields.io/badge/NFC-002E5F.svg?style=flat&logo=NFC&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white) ![ios](https://img.shields.io/badge/IOS-000000.svg?style=flat&logo=Apple&logoColor=white) ![playstore](https://img.shields.io/badge/Google%20PlayStore-414141.svg?style=flat&logo=Google-Play&logoColor=white) ![applestore](https://img.shields.io/badge/App%20Store-0D96F6.svg?style=flat&logo=App-Store&logoColor=white) ![bluetooth](https://img.shields.io/badge/Bluetooth-0082FC.svg?style=flat&logo=Bluetooth&logoColor=white) ![mediatek](https://img.shields.io/badge/MediaTek-EC9430.svg?style=flat&logo=MediaTek&logoColor=white) ![Snapdragon](https://img.shields.io/badge/Snapdragon-red.svg?style=flat&logo=Qualcomm&logoColor=white) ![Chromecast](https://img.shields.io/badge/Chromecast-999999.svg?style=flat&logo=Chromecast&logoColor=white) ![flashtools](https://img.shields.io/badge/Flash%20Tools-black.svg?style=flat&logo=Cloudflare-Pages&logoColor=white)
+![nfc](https://img.shields.io/badge/NFC-002E5F.svg?style=flat&logo=NFC&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white) ![ios](https://img.shields.io/badge/IOS-000000.svg?style=flat&logo=Apple&logoColor=white) ![playstore](https://img.shields.io/badge/Google%20PlayStore-414141.svg?style=flat&logo=Google-Play&logoColor=white) ![applestore](https://img.shields.io/badge/App%20Store-0D96F6.svg?style=flat&logo=App-Store&logoColor=white) ![bluetooth](https://img.shields.io/badge/Bluetooth-0082FC.svg?style=flat&logo=Bluetooth&logoColor=white) ![mediatek](https://img.shields.io/badge/MediaTek-EC9430.svg?style=flat&logo=MediaTek&logoColor=white) ![Snapdragon](https://img.shields.io/badge/Snapdragon-red.svg?style=flat&logo=Qualcomm&logoColor=white) ![Chromecast](https://img.shields.io/badge/Chromecast-999999.svg?style=flat&logo=Chromecast&logoColor=white) ![flashtools](https://img.shields.io/badge/Flash%20Tools-black.svg?style=flat&logo=Cloudflare-Pages&logoColor=white)
 
 </details>
 
 <details>
   <summary>System parameterization</summary>
-   ![putty](https://img.shields.io/badge/PuTTY-grey.svg?style=flat&logo=GNUBash&logoColor=white) ![rm](https://img.shields.io/badge/Revenue%20Management-E7157B.svg?style=flat&logo=AWS-Organizations&logoColor=white)  ![Diameter](https://img.shields.io/badge/Diameter%20Protocol-4285F4.svg?style=flat&logo=dask&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-4D4D4D.svg?style=flat&logo=Windows-Terminal&logoColor=white) ![xshell](https://img.shields.io/badge/Xshell-green.svg?style=flat&logo=Serverless&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-blue.svg?style=flat&logo=Winmate&logoColor=white) ![iterm](https://img.shields.io/badge/iTerm2-000000.svg?style=flat&logo=iTerm2&logoColor=white) ![MremoteNG](https://img.shields.io/badge/MremoteNG-005A9C.svg?style=flat&logo=Semantic-Web&logoColor=white) 
+    
+![putty](https://img.shields.io/badge/PuTTY-grey.svg?style=flat&logo=GNUBash&logoColor=white) ![rm](https://img.shields.io/badge/Revenue%20Management-E7157B.svg?style=flat&logo=AWS-Organizations&logoColor=white)  ![Diameter](https://img.shields.io/badge/Diameter%20Protocol-4285F4.svg?style=flat&logo=dask&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-4D4D4D.svg?style=flat&logo=Windows-Terminal&logoColor=white) ![xshell](https://img.shields.io/badge/Xshell-green.svg?style=flat&logo=Serverless&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-blue.svg?style=flat&logo=Winmate&logoColor=white) ![iterm](https://img.shields.io/badge/iTerm2-000000.svg?style=flat&logo=iTerm2&logoColor=white) ![MremoteNG](https://img.shields.io/badge/MremoteNG-005A9C.svg?style=flat&logo=Semantic-Web&logoColor=white) 
 </details>
 
 </details>
