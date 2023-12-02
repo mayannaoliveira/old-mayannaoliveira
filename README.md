@@ -79,7 +79,9 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 
   ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) ![ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=Ruby&logoColor=white) ![cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=flat&logo=Cucumber&logoColor=white) ![jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=flat&logo=Jekyll&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white) ![Mantis](https://custom-icon-badges.demolab.com/badge/Mantis%20Bug%20Tracker-557C55.svg?logo=bug) ![RM](https://custom-icon-badges.demolab.com/badge/Revenue%20Management-blue.svg?logo=devices) ![PuTTY](https://custom-icon-badges.demolab.com/badge/PuTTY-grey.svg?logo=code-square) ![winscp](https://custom-icon-badges.demolab.com/badge/WinSCP-blue.svg?logo=arrow-switch) ![jira](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=flat&logo=Jira-Software&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat&logo=Windows&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white)
   
-<details>
+<!-- My Skills -->
+
+<!-- <details>
  <summary> 
  <h3 align="left">🪚 My Skills</h3> 
  </summary>
@@ -195,7 +197,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 ![putty](https://img.shields.io/badge/PuTTY-grey.svg?style=flat&logo=GNUBash&logoColor=white) ![rm](https://img.shields.io/badge/Revenue%20Management-E7157B.svg?style=flat&logo=AWS-Organizations&logoColor=white)  ![Diameter](https://img.shields.io/badge/Diameter%20Protocol-4285F4.svg?style=flat&logo=dask&logoColor=white) ![MobaXterm](https://img.shields.io/badge/MobaXterm-4D4D4D.svg?style=flat&logo=Windows-Terminal&logoColor=white) ![xshell](https://img.shields.io/badge/Xshell-green.svg?style=flat&logo=Serverless&logoColor=white) ![WinSCP](https://img.shields.io/badge/WinSCP-blue.svg?style=flat&logo=Winmate&logoColor=white) ![iterm](https://img.shields.io/badge/iTerm2-000000.svg?style=flat&logo=iTerm2&logoColor=white) ![MremoteNG](https://img.shields.io/badge/MremoteNG-005A9C.svg?style=flat&logo=Semantic-Web&logoColor=white) 
 </details>
 
-</details>
+</details> -->
 
 <div class="row" align="center">
   <div class="column">
@@ -235,6 +237,8 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 
 _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira)._
 
+--- 
+
 <h3 align="left">⚡Recent Activity </h3>
 
 <!--START_SECTION:activity-->
@@ -244,6 +248,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 
 ---
 
+<!-- status do todoist -->
 <h3 align="left">📋 Todoist Status </h3>
 
 <!-- TODO-IST:START -->
@@ -255,6 +260,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 
 ---
 
+<!-- wakatime action  -->
 <h3 align="left">⏲ Wakatime Status </h3>
 
 <!--START_SECTION:waka-->
@@ -271,10 +277,12 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 
 ---
 
+<!-- widgetbox do meu perfil -->
 <p align="center">
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon" alt="github widgetbox"/></a>
 </p>
 
+<!-- Status do repositório -->
 <p align="center">
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
@@ -283,7 +291,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
 </p>
 
+<!-- Github avatar -->
 <p align="center">
-    <a href="https://bio.link/mayanna">
-    <img alt="Mayanna Oliveira" src="img/octocat-1701493235943.png"/>
-    </a></p>
+<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="./img/octocat-1701493235943.png" style="width:28%" alt="Github avatar"/></a>
+</a>
+</p>
