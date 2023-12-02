@@ -282,3 +282,8 @@ JSON         0 secs          ░░░░░░░░░░░░░░░░░
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
 </p>
+
+<p align="center">
+    <a href="https://bio.link/mayanna">
+    <img alt="Mayanna Oliveira" src="img/octocat-1701493235943.png"/>
+    </a></p>
