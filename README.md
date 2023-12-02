@@ -213,7 +213,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 - [Resumo da documentação do Heroku com Python](https://dev.to/mayannaoliveira/resumo-da-documentacao-do-heroku-com-python-3bmj)
 <!-- BLOG-POST-LIST:END -->
 
-_Please, check my articles in [Dev](https://dev.to/mayannaoliveira)._
+_Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 
 <h3 align="left">🏅 Courses Badges </h3>
 
