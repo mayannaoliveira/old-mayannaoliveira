@@ -42,7 +42,7 @@
 
 - ⚔️ I'm a beginning in Codewar ![codewar-mayanna](https://www.codewars.com/users/mayannaoliveira/badges/micro).
 
-- 🔧 I have been working with `Revenue Management`, `DevOps`,  `APIs`, `Linux`, `Unity Testing`, `Functional Testing` and `Non Functional Testing`.
+- 🔧 I have been working with `Revenue Management Systems`, `DevOps`,  `APIs`, `Linux`, `Unity Testing`, `Functional Testing` and `Non Functional Testing`.
 
 - 🗣 I speak `Portuguese`, `English` and `Spanish`.
 
@@ -77,8 +77,8 @@
 I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and apps.
 </p>
 
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) 
-
+  ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) ![ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=Ruby&logoColor=white) ![cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=flat&logo=Cucumber&logoColor=white) ![jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=flat&logo=Jekyll&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white) ![Mantis](https://custom-icon-badges.demolab.com/badge/Mantis%20Bug%20Tracker-557C55.svg?logo=bug) ![RM](https://custom-icon-badges.demolab.com/badge/Revenue%20Management-blue.svg?logo=devices) ![PuTTY](https://custom-icon-badges.demolab.com/badge/PuTTY-grey.svg?logo=code-square) ![winscp](https://custom-icon-badges.demolab.com/badge/WinSCP-blue.svg?logo=arrow-switch) ![jira](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=flat&logo=Jira-Software&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat&logo=Windows&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white)
+  
 <details>
  <summary> 
  <h3 align="left">🪚 My Skills</h3> 
