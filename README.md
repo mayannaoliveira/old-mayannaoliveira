@@ -266,11 +266,10 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     19 mins         ██████████▒░░░░░░░░░░░░░░   40.83 %
-Docker       17 mins         █████████▒░░░░░░░░░░░░░░░   37.65 %
-YAML         9 mins          █████▒░░░░░░░░░░░░░░░░░░░   20.78 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+YAML       9 mins          ████████████████████████▒   96.86 %
+Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
+JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
+HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
