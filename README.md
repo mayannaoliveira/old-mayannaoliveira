@@ -253,7 +253,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 
 <!-- TODO-IST:START -->
 🏆  589 Karma Points           
-🌸  Completed 3 tasks today           
+🌸  Completed 0 tasks today           
 ✅  Completed 14 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
