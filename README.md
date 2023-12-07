@@ -267,10 +267,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <!--START_SECTION:waka-->
 
 ```txt
-YAML       9 mins          ████████████████████████▒   96.86 %
-Markdown   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.74 %
-JSON       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.85 %
-HTML       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
+JSON   0 secs          █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
