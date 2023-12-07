@@ -209,10 +209,10 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 <h3 align="left">🔭 Articles in DEV </h3>
 
  <!-- BLOG-POST-LIST:START -->
+- [Terminal do Windows com Oh My Posh](https://dev.to/mayannaoliveira/terminal-do-windows-com-oh-my-posh-14jm)
 - [Introdução aos Comandos Git](https://dev.to/mayannaoliveira/introducao-aos-comandos-git-3am7)
 - [Atualização do Ubuntu via Terminal](https://dev.to/mayannaoliveira/atualizacao-do-ubuntu-via-terminal-2mp9)
 - [Instalação do Docker no Ubuntu](https://dev.to/mayannaoliveira/instalacao-do-docker-no-ubuntu-3jej)
-- [Resumo da documentação do Heroku com Python](https://dev.to/mayannaoliveira/resumo-da-documentacao-do-heroku-com-python-3bmj)
 <!-- BLOG-POST-LIST:END -->
 
 _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
