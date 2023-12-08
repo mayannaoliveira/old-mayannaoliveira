@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Mayanna Oliveira</h1>
+<h3 align="center">Hi <img src="./img/handshake.png" alt="Handshake" width="25" height="25"/>, I'm Mayanna Silva Oliveira</h1>
 <h5 align="center">A System Analyst graduated in System Analysis and Development with a degree in System Engineering and certified CTFL-ISTQB® that is actually working as IT Freelancer.
 </h3>
 
@@ -34,29 +34,33 @@
     <img alt="Mayanna Oliveira" src="img/cover.png"/>
     </a></p> 
 
-- 🌱 I’m currently learning more about ![sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white), ![visualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) and ![csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=flat&logo=C-Sharp&logoColor=white).
+- <img src="./img/compass.png" alt="Compass" width="25" height="25"/> I’m currently learning more about ![sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white), ![visualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) and ![csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=flat&logo=C-Sharp&logoColor=white).
 
-- 📝 I regularly write articles in [![devto](https://img.shields.io/badge/DEV-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mayannaoliveira).
+- <img src="./img/tech-girl.png" alt="Tech" width="25" height="25"/> I regularly write articles in [![devto](https://img.shields.io/badge/DEV-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mayannaoliveira).
 
-- 🚧 My profile in Stackoverflow [![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna).
+- <img src="./img/card.png" alt="Card" width="25" height="25"/> My profile in Stackoverflow [![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna).
 
-- ⚔️ I'm a beginning in Codewar ![codewar-mayanna](https://www.codewars.com/users/mayannaoliveira/badges/micro).
+- <img src="./img/alien.png" alt="Alien" width="25" height="25"/>  I'm a beginning in Codewar ![codewar-mayanna](https://www.codewars.com/users/mayannaoliveira/badges/micro).
 
-- 🔧 I have been working with `Revenue Management Systems`, `DevOps`,  `APIs`, `Linux`, `Unity Testing`, `Functional Testing` and `Non Functional Testing`.
+- <img src="./img/backpack.png" alt="Backpack" width="25" height="25"/> I have been working with `Revenue Management Systems`, `DevOps`,  `APIs`, `Linux`, `Unity Testing`, `Functional Testing` and `Non Functional Testing`.
 
-- 🗣 I speak `Portuguese`, `English` and `Spanish`.
+- <img src="./img/globe.png" alt="Globe" width="25" height="25"/> I speak `Portuguese`, `English` and `Spanish`.
 
-- 📫 Keep in touch [![email](https://img.shields.io/badge/mayannasoliveira@gmail.com-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:mayannasoliveira@gmail.com).
+- <img src="./img/mailbox.png" alt="Closed Mailbox with Raised Flag" width="25" height="25"/> Keep in touch [![email](https://img.shields.io/badge/mayannasoliveira@gmail.com-EA4335.svg?style=flat&logo=Gmail&logoColor=white)](mailto:mayannasoliveira@gmail.com).
   
-- 📄 Please check abour my work experiences in my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayannaoliveira/).
+- <img src="./img/briefcase.png" alt="Briefcase" width="25" height="25"/> Please check abour my work experiences in my [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/mayannaoliveira/).
 
-- 🏆 Certifications: `CTFL-ISTQB®`, `SFC™`, `SCMS-F™`, `PMEC™`, `LSSWB™` e `SSYB™`.
+- <img src="./img/trophy.png" alt="Trophy" width="25" height="25"/> Certifications: `CTFL-ISTQB®`, `SFC™`, `SCMS-F™`, `PMEC™`, `LSSWB™` e `SSYB™`.
 
-- 🏓 Some of my hobbies is read books, hiking with my friends and travel with my family.
+- <img src="./img/arts.png" alt="Arts" width="25" height="25"/> Some of my hobbies is read books, hiking with my friends and travel with my family.
 
-- 🎮 I like to play ![PUBG Mobile](https://img.shields.io/badge/PUBG-FEAB02.svg?style=flat&logo=PUBG&logoColor=white) in my free time.
+- <img src="./img/game.png" alt="Game" width="25" height="25"/> I like to play ![PUBG Mobile](https://img.shields.io/badge/PUBG-UID:%2051764747243-FEAB02.svg?style=flat&logo=PUBG&logoColor=white) in my free time.
   
-- 😺 My profile views in ![ProfileViews](https://komarev.com/ghpvc/?username=mayannaoliveira&label=Github&color=0e75b6&style=flat&logo=github).
+- <img src="./img/cat.png" alt="Cat" width="25" height="25"/> My profile views in ![ProfileViews](https://komarev.com/ghpvc/?username=mayannaoliveira&label=Github&color=0e75b6&style=flat&logo=github).
+
+- <img src="./img/tea.png" alt="Tea" width="25" height="25"/> If you want to give me tea please, send a Pix to Mayanna Silva Oliveira ![pix](https://img.shields.io/badge/Pix-mayannait@gmail.com-77B6A8.svg?style=flat&logo=Pix&logoColor=white).
+
+- <img src="./img/graduation.png" alt="Graduation Cap" width="25" height="25"/> Graduated as System Analist (UNOPAR) and degree in System Engineering (UNIMONTES).
 
 <div class="row" align="center">
   <div class="column">
@@ -72,7 +76,7 @@
 <!-- StackOverflow -->
 <!-- [![Mayanna StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&theme=dark)](https://stackoverflow.com/users/16884312/mayanna)-->
 
-<h3 align="left">🚀 Working</h3> 
+<h3 align="left"><img src="./img/rocket.png" alt="Rocket" width="25" height="25"/> Working</h3> 
 <p>
 I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and apps.
 </p>
@@ -206,7 +210,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
   </div>
 </div>
 
-<h3 align="left">🔭 Articles in DEV </h3>
+<h3 align="left"><img src="./img/tabs.png" alt="Tabs" width="25" height="25"/> Articles in DEV </h3>
 
  <!-- BLOG-POST-LIST:START -->
 - [Terminal do Windows com Oh My Posh](https://dev.to/mayannaoliveira/terminal-do-windows-com-oh-my-posh-14jm)
@@ -217,7 +221,7 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 
 _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 
-<h3 align="left">🏅 Courses Badges </h3>
+<h3 align="left"><img src="./img/medal.png" alt="Medal" width="25" height="25"/> Courses Badges </h3>
 
 <!--START_SECTION:badges-->
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/6c1fbf57-b2d7-4b59-8179-995a3a39491a "Python for Data Science")
@@ -240,7 +244,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 
 --- 
 
-<h3 align="left">⚡Recent Activity </h3>
+<h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#2632](https://github.com/rossjrw/rossjrw/issues/2632#issuecomment-1807387271) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
@@ -250,7 +254,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 ---
 
 <!-- status do todoist -->
-<h3 align="left">📋 Todoist Status </h3>
+<h3 align="left"><img src="./img/clip.png" alt="clip" width="25" height="25"/> Todoist Status </h3>
 
 <!-- TODO-IST:START -->
 🏆  890 Karma Points           
@@ -262,7 +266,7 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 ---
 
 <!-- wakatime action  -->
-<h3 align="left">⏲ Wakatime Status </h3>
+<h3 align="left"><img src="./img/clock.png" alt="clock" width="25" height="25"/> Wakatime Status </h3>
 
 <!--START_SECTION:waka-->
 
