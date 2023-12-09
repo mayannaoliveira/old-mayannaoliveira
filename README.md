@@ -257,9 +257,9 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <h3 align="left"><img src="./img/clip.png" alt="clip" width="25" height="25"/> Todoist Status </h3>
 
 <!-- TODO-IST:START -->
-🏆  890 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 19 tasks so far           
+🏆  1,105 Karma Points           
+🌸  Completed 44 tasks today           
+✅  Completed 63 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
