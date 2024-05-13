@@ -54,7 +54,7 @@
 
 - <img src="./img/arts.png" alt="Arts" width="25" height="25"/> Some of my hobbies is read books, hiking with my friends and travel with my family.
 
-- <img src="./img/game.png" alt="Game" width="25" height="25"/> I like to play ![PUBG Mobile](https://img.shields.io/badge/PUBG-UID:%2051764747243-FEAB02.svg?style=flat&logo=PUBG&logoColor=white) in my free time.
+- <img src="./img/game.png" alt="Game" width="25" height="25"/> I like to play retro video games in my free time.
   
 - <img src="./img/cat.png" alt="Cat" width="25" height="25"/> My profile views in ![ProfileViews](https://komarev.com/ghpvc/?username=mayannaoliveira&label=Github&color=0e75b6&style=flat&logo=github).
 
