@@ -224,6 +224,8 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <h3 align="left"><img src="./img/medal.png" alt="Medal" width="25" height="25"/> Courses Badges </h3>
 
 <!--START_SECTION:badges-->
+[![R Essentials](https://images.credly.com/size/110x110/images/d2cc88b1-1f59-41d2-9f1c-83190e3541e1/R_Essentials.png)](http://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5 "R Essentials")
+[![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/fbb2409d-ea33-4160-9d41-d21f381b5cdf "Cybersecurity Awareness - CAPC !")
 [![Lifelong Learning !](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/50d4b21c-f790-4450-a03c-6ea5d7bbc1c1 "Lifelong Learning !")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/84ac9eff-b8a2-4683-846b-f59887a73801/Python_101_Data_Science.png)](http://www.credly.com/badges/6c1fbf57-b2d7-4b59-8179-995a3a39491a "Python for Data Science")
 [![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/4e5341a0-031a-477d-a3c6-7a641e79dc2c/Hadoop_Data_Found_Level_1_-_CC_-_2019.png)](http://www.credly.com/badges/73ca3db7-9bbe-485f-9467-92a1b64fae2a "Hadoop Foundations - Level 1")
