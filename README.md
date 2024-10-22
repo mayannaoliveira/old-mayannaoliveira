@@ -226,7 +226,7 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <!--START_SECTION:badges-->
 [![R Essentials](https://images.credly.com/size/110x110/images/14a1c1e0-f580-4034-a910-a33043d6af12/blob)](http://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5 "R Essentials")
 [![Cybersecurity Awareness - CAPC !](https://images.credly.com/size/110x110/images/712a773b-9acc-4bc8-90fa-6afdfc95da1e/image.png)](http://www.credly.com/badges/fbb2409d-ea33-4160-9d41-d21f381b5cdf "Cybersecurity Awareness - CAPC !")
-[![Lifelong Learning !](https://images.credly.com/size/110x110/images/f5cf37e4-6ebd-4067-96a9-b26d04f51ff7/CertiProf-Badge-LLL.png)](http://www.credly.com/badges/50d4b21c-f790-4450-a03c-6ea5d7bbc1c1 "Lifelong Learning !")
+[![Lifelong Learning](https://images.credly.com/size/110x110/images/21e16d4d-d2df-46e6-9098-526caab49e63/blob)](http://www.credly.com/badges/50d4b21c-f790-4450-a03c-6ea5d7bbc1c1 "Lifelong Learning")
 [![Python for Data Science](https://images.credly.com/size/110x110/images/b40db465-587f-45eb-a854-af8630a630e7/blob)](http://www.credly.com/badges/6c1fbf57-b2d7-4b59-8179-995a3a39491a "Python for Data Science")
 [![Hadoop Foundations - Level 1](https://images.credly.com/size/110x110/images/1e55ec7d-b57d-4ecf-92d4-d3b7887977ad/blob)](http://www.credly.com/badges/73ca3db7-9bbe-485f-9467-92a1b64fae2a "Hadoop Foundations - Level 1")
 [![Build Your Own Chatbot - Level 1](https://images.credly.com/size/110x110/images/745b7433-8c95-4978-87ed-a5b280fcb1aa/blob)](http://www.credly.com/badges/32426096-8231-4933-a14a-b6d76e798d24 "Build Your Own Chatbot - Level 1")
