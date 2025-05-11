@@ -250,8 +250,8 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2632](https://github.com/rossjrw/rossjrw/issues/2632#issuecomment-1807387271) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
-2. ❗ Opened issue [#2632](https://github.com/rossjrw/rossjrw/issues/2632) in [rossjrw/rossjrw](https://github.com/rossjrw/rossjrw)
+1. 🗣 Commented on [#1](https://github.com/mayannaoliveira/Projeto-Foco/issues/1#issuecomment-2870046928) in [mayannaoliveira/Projeto-Foco](https://github.com/mayannaoliveira/Projeto-Foco)
+2. ❗ Opened issue [#1](https://github.com/mayannaoliveira/Projeto-Foco/issues/1) in [mayannaoliveira/Projeto-Foco](https://github.com/mayannaoliveira/Projeto-Foco)
 <!--END_SECTION:activity-->
 
 ---
