@@ -250,8 +250,8 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#1](https://github.com/mayannaoliveira/gerador-senhas/pull/1) in [mayannaoliveira/gerador-senhas](https://github.com/mayannaoliveira/gerador-senhas)
-2. 🗣 Commented on [#1](https://github.com/mayannaoliveira/gerador-senhas/pull/1#issuecomment-2870068661) in [mayannaoliveira/gerador-senhas](https://github.com/mayannaoliveira/gerador-senhas)
+1. 💪 Opened PR [#27](https://github.com/Chhunneng/programming-starters-project/pull/27) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+2. ❌ Closed PR [#26](https://github.com/Chhunneng/programming-starters-project/pull/26) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
 <!--END_SECTION:activity-->
 
 ---
