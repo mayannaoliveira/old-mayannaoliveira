@@ -250,8 +250,8 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/mayannaoliveira/Projeto-Foco/issues/1#issuecomment-2870046928) in [mayannaoliveira/Projeto-Foco](https://github.com/mayannaoliveira/Projeto-Foco)
-2. ❗ Opened issue [#1](https://github.com/mayannaoliveira/Projeto-Foco/issues/1) in [mayannaoliveira/Projeto-Foco](https://github.com/mayannaoliveira/Projeto-Foco)
+1. 🗣 Commented on [#1](https://github.com/mayannaoliveira/Obsidian-Snippets-Customizados/pull/1#issuecomment-2870064515) in [mayannaoliveira/Obsidian-Snippets-Customizados](https://github.com/mayannaoliveira/Obsidian-Snippets-Customizados)
+2. ❌ Closed PR [#1](https://github.com/mayannaoliveira/Obsidian-Snippets-Customizados/pull/1) in [mayannaoliveira/Obsidian-Snippets-Customizados](https://github.com/mayannaoliveira/Obsidian-Snippets-Customizados)
 <!--END_SECTION:activity-->
 
 ---
