@@ -37,8 +37,7 @@
     <img alt="Mayanna Oliveira" src="img/cover.png"/>
     </a></p> 
 
-- <img src="./img/compass.png" alt="Compass" width="25" height="25"/> I’m currently learning more about ![sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Heroku](https://img.shields.io/badge/Heroku-430098.svg?style=flat&logo=Heroku&logoColor=white), ![visualStudio](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) and ![csharp](https://img.shields.io/badge/C%20Sharp-512BD4.svg?style=flat&logo=C-Sharp&logoColor=white).
-
+- <img src="./img/compass.png" alt="Compass" width="25" height="25"/> I’m currently learning more about ![Sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=Rust&logoColor=white) and ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=Go&logoColor=white).
 - <img src="./img/tech-girl.png" alt="Tech" width="25" height="25"/> I regularly write articles in [![devto](https://img.shields.io/badge/DEV-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mayannaoliveira).
 
 - <img src="./img/card.png" alt="Card" width="25" height="25"/> My profile in Stackoverflow [![StackOverflow](https://stackoverflow-badge.onrender.com/api/StackOverflowBadge/16884312)](https://stackoverflow.com/users/16884312/mayanna).
