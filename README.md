@@ -3,7 +3,7 @@
 </h3>
 
 <p align="center">
-    <a href="https://discordapp.com/users/mayannaoliveira">
+    <a href="https://discordapp.com/users/728043170226503721">
     <img alt="Discord" src="https://img.shields.io/badge/Discord_mayannaoliveira-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
     </a>
     <a href="https://bio.link/mayanna">
