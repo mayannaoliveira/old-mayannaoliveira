@@ -3,11 +3,14 @@
 </h3>
 
 <p align="center">
+    <a href="https://discordapp.com/users/mayannaoliveira">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord_mayannaoliveira-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+    </a>
     <a href="https://bio.link/mayanna">
     <img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=flat&logo=Bio-Link&logoColor=white"/>
     </a>
     <a href="https://www.linkedin.com/in/mayannaoliveira/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=flat&logo=LinkedIn&logoColor=white"/>
+    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
     </a>
     <a href="https://www.credly.com/users/mayannaoliveira/">
     <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white"/>
