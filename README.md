@@ -282,11 +282,12 @@ JSON   0 secs          ███████████████████
 <!--END_SECTION:waka-->
 
 ---
+[![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
 
 <!-- widgetbox do meu perfil -->
-<p align="center">
+<!-- <p align="center">
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://github-widgetbox.vercel.app/api/profile?username=mayannaoliveira&data=followers,repositories,stars,commits&theme=carbon" alt="github widgetbox"/></a>
-</p>
+</p> -->
 
 <!-- Status do repositório -->
 <p align="center">
