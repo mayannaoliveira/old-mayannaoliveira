@@ -252,8 +252,8 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#721](https://github.com/yfosp/start-here/pull/721) in [yfosp/start-here](https://github.com/yfosp/start-here)
-2. ❌ Closed PR [#27](https://github.com/Chhunneng/programming-starters-project/pull/27) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+1. 💪 Opened PR [#28](https://github.com/Chhunneng/programming-starters-project/pull/28) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+2. 💪 Opened PR [#721](https://github.com/yfosp/start-here/pull/721) in [yfosp/start-here](https://github.com/yfosp/start-here)
 <!--END_SECTION:activity-->
 
 ---
