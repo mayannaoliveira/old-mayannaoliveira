@@ -120,7 +120,7 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <!-- TODO-IST:START -->
 🏆  1,191 Karma Points           
 🌸  Completed 0 tasks today           
-✅  Completed 63 tasks so far           
+✅  Completed 64 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
@@ -150,9 +150,45 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <!--END_SECTION:badges-->
 
 _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira)._
-
 </details>
 
+---
+
+<!-- wakatime action  -->
+<details>
+<summary><h3 align="left"><img src="./img/clock.png" alt="clock" width="25" height="25"/> Wakatime Status </h3></summary>
+
+<!--START_SECTION:waka-->
+
+```txt
+Other        20 hrs 16 mins  ███████████████████░░░░░░   76.39 %
+Markdown     3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
+JavaScript   1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
+Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+```
+
+<!--END_SECTION:waka-->
+
+</details>
+    
+---
+
+<!-- GitHub Contribution Chart  -->
+<details>
+<summary><h3 align="left"><img src="./img/chart.png" alt="chart" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
+<a href="https://github.com/mayannaoliveira">
+    <img src="https://ghchart.rshah.org/mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
+</a>
+</details>
+
+<details>
+<summary><h3 align="left"><img src="./img/abacus.png" alt="abacus" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
+<a href="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira">
+    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
+</a>
+</details>
+ 
 ---
 
 [![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
