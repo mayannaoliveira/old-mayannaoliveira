@@ -119,8 +119,8 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 
 <!-- TODO-IST:START -->
 🏆  1,191 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 64 tasks so far           
+🌸  Completed 2 tasks today           
+✅  Completed 66 tasks so far           
 ⏳  Longest streak is 1 days
 <!-- TODO-IST:END -->
 
