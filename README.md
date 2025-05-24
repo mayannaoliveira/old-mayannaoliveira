@@ -102,8 +102,8 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mayannaoliveira/programming-starters-project/pull/1) in [mayannaoliveira/programming-starters-project](https://github.com/mayannaoliveira/programming-starters-project)
-2. 💪 Opened PR [#1](https://github.com/mayannaoliveira/programming-starters-project/pull/1) in [mayannaoliveira/programming-starters-project](https://github.com/mayannaoliveira/programming-starters-project)
+1. ❌ Closed PR [#28](https://github.com/Chhunneng/programming-starters-project/pull/28) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
+2. 🎉 Merged PR [#1](https://github.com/mayannaoliveira/programming-starters-project/pull/1) in [mayannaoliveira/programming-starters-project](https://github.com/mayannaoliveira/programming-starters-project)
 <!--END_SECTION:activity-->
 
 ---
