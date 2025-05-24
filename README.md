@@ -71,13 +71,7 @@
     <img src="./img/hello.png" style="width:28%"> 
   </div>
 </div>
-
-<!-- StackOverflow -->
-<!-- [![Mayanna StackOverflow](https://stackoverflow-card.vercel.app/?userID=16884312&theme=stackoverflow-dark)](https://stackoverflow.com/users/16884312/mayanna) -->
-
-<!-- StackOverflow -->
-<!-- [![Mayanna StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=16884312&theme=dark)](https://stackoverflow.com/users/16884312/mayanna)-->
-
+ 
 <h3 align="left"><img src="./img/rocket.png" alt="Rocket" width="25" height="25"/> Working</h3> 
 <p>
 I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and apps.
@@ -151,9 +145,7 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 
 _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira)._
 </details>
-
----
-
+ 
 <!-- wakatime action  -->
 <details>
 <summary><h3 align="left"><img src="./img/clock.png" alt="clock" width="25" height="25"/> Wakatime Status </h3></summary>
@@ -171,9 +163,7 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 </details>
-    
----
-
+ 
 <!-- GitHub Contribution Chart  -->
 <details>
 <summary><h3 align="left"><img src="./img/chart.png" alt="chart" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
