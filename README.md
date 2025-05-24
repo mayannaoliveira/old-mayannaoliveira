@@ -150,9 +150,18 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <!--END_SECTION:badges-->
 
 _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira)._
-
 </details>
 
+<!-- wakatime action  -->
+<details>
+<summary><h3 align="left"><img src="./img/clock.png" alt="clock" width="25" height="25"/> Wakatime Status </h3></summary>
+
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
+
+</details>
+    
 ---
 
 [![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
