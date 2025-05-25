@@ -175,6 +175,7 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 </a>
 </details>
 
+<!--  GitHub Contribution Chart from Doboo  -->
 <details>
 <summary><h3 align="left"><img src="./img/abacus.png" alt="abacus" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
 <a href="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira">
