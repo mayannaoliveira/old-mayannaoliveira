@@ -182,8 +182,9 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 </a>
 </details>
 
+<!-- Profile in Try Hack Me  -->
 <details>
-<summary><h3 align="left"><img src="./img/abacus.png" alt="abacus" width="25" height="25"/>Profile in Try Hack Me</h3></summary>
+<summary><h3 align="left"><img src="./img/tryhackme.png" alt="abacus" width="25" height="25"/>Profile in Try Hack Me</h3></summary>
 <a href="https://tryhackme.com/p/mayannait">
     <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me" />
 </a>
