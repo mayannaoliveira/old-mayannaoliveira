@@ -30,6 +30,9 @@
     <a href="https://wa.me/5571992651308">
     <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp%20+5571992651308-green.svg?style=flat&logo=Whatsapp&logoColor=white">    
     </a>
+      <a href="https://tryhackme.com/p/mayannait">
+    <img alt="Try Hack Me" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=flat&logo=TryHackMe&logoColor=white"/>
+    </a>
 </p> 
 
 <p align="center">
@@ -176,6 +179,13 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
 <summary><h3 align="left"><img src="./img/abacus.png" alt="abacus" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
 <a href="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira">
     <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
+</a>
+</details>
+
+<details>
+<summary><h3 align="left"><img src="./img/abacus.png" alt="abacus" width="25" height="25"/>Profile in Try Hack Me</h3></summary>
+<a href="https://tryhackme.com/p/mayannait">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me" />
 </a>
 </details>
  
