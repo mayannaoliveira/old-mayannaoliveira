@@ -193,7 +193,10 @@ JSON         11 mins         ▒░░░░░░░░░░░░░░░░
  
 ---
 
-[![An image of @mayannaoliveira's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mayannaoliveira)](https://holopin.io/@mayannaoliveira)
+<!-- Holopin Board -->
+<a href="https://holopin.io/@mayannaoliveira">
+    <img src="https://holopin.me/mayannaoliveira" alt="Holopin"/>
+</a>
 
 <!-- Status do repositório -->
 <p align="center">
