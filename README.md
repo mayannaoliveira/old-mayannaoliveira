@@ -123,8 +123,7 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 
 ---
 
-<details>
-<summary><h3 align="left"><img src="./img/medal.png" alt="Creddly" width="20" height="20"/> Courses Badges </h3></summary>
+<h3 align="left"><img src="./img/medal.png" alt="Creddly" width="20" height="20"/> Courses Badges </h3>
 
 <!--START_SECTION:badges-->
 [![R Essentials](https://images.credly.com/size/110x110/images/14a1c1e0-f580-4034-a910-a33043d6af12/blob)](http://www.credly.com/badges/cdfcaf81-75fa-411b-bf3c-0720ba74fff5 "R Essentials")
@@ -147,68 +146,28 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <!--END_SECTION:badges-->
 
 _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoliveira)._
-</details>
- 
-<!-- wakatime action  -->
-<details>
-<summary><h3 align="left"><img src="./img/clock.png" alt="clock" width="25" height="25"/> Wakatime Status </h3></summary>
-
-<!--START_SECTION:waka-->
-
-```txt
-Other        19 hrs 24 mins  ██████████████████▓░░░░░░   74.71 %
-Markdown     3 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
-JavaScript   2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
-Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
-```
-
-<!--END_SECTION:waka-->
-
-</details>
- 
-<!-- GitHub Contribution Chart  -->
-<details>
-<summary><h3 align="left"><img src="./img/chart.png" alt="chart" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
-<a href="https://github.com/mayannaoliveira">
-    <img src="https://ghchart.rshah.org/mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
-</a>
-</details>
-
-<!--  GitHub Contribution Chart from Doboo  -->
-<details>
-<summary><h3 align="left"><img src="./img/abacus.png" alt="abacus" width="25" height="25"/> GitHub Contribution Chart </h3></summary>
-<a href="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira">
-    <img src="https://stats.dooboo.io/api/github-stats-advanced?login=mayannaoliveira" alt="mayannaoliveira's GitHub Contribution Chart">
-</a>
-</details>
-
-<!-- Profile in Try Hack Me  -->
-<details>
-<summary><h3 align="left"><img src="./img/tryhackme.png" alt="abacus" width="25" height="25"/>Profile in Try Hack Me</h3></summary>
-<a href="https://tryhackme.com/p/mayannait">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me" />
-</a>
-</details>
  
 ---
 
 <!-- Holopin Board -->
 <a href="https://holopin.io/@mayannaoliveira">
-    <img src="https://holopin.me/mayannaoliveira" alt="Holopin"/>
+    <img src="https://holopin.me/mayannaoliveira" alt="Holopin "align="center"/>
 </a>
 
-<!-- Status do repositório -->
+<!-- Status do repositório
 <p align="center">
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
 <a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
-</p>
+</p> -->
 
-<!-- Github avatar -->
-<p align="center">
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="./img/octocat-1701493235943.png" style="width:28%" alt="Github avatar"/></a>
-</a>
-</p>
+<!-- Github avatar / Try Hack Me-->
+</br>
+<div class="row" align="center">
+  <div class="column">
+    <img src="./img/octocat-1701493235943.png" width="11%" alt="Github avatar"/>
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me"/>
+  </div>
+</div>
