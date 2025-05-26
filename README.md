@@ -156,11 +156,11 @@ _Please, check on my badges in [Creddly](https://www.credly.com/users/mayannaoli
 <!--START_SECTION:waka-->
 
 ```txt
-Other        20 hrs 16 mins  ███████████████████░░░░░░   76.39 %
-Markdown     3 hrs 19 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.56 %
-JavaScript   1 hr 52 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.08 %
-Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Other        19 hrs 24 mins  ██████████████████▓░░░░░░   74.71 %
+Markdown     3 hrs 43 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.37 %
+JavaScript   2 hrs 1 min     ██░░░░░░░░░░░░░░░░░░░░░░░   07.82 %
+Text         28 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.83 %
+JSON         11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
