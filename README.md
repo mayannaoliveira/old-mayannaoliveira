@@ -71,7 +71,7 @@
   <div class="column">
     <!-- <img src="https://stackoverflow-card.vercel.app/?userID=16884312&theme=stackoverflow-dark" style="width:51%"> -->
    <!-- <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=monokai&row=2&column=3" alt="mayannaoliveira" style="width:35%"> -->
-    <img src="https://api.daily.dev/devcards/v2/vaxu1YcJUD9Ciru3l9X6S.png?type=default&r=ye1" width="180" alt="Mayanna Oliveira's Dev Card"/>
+    <img src="https://api.daily.dev/devcards/v2/vaxu1YcJUD9Ciru3l9X6S.png?type=default&r=u0h" width="180" alt="Mayanna Oliveira's Dev Card"/>
     <img src="./img/hello.png" style="width:28%"> 
   </div>
 </div>
