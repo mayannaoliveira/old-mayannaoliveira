@@ -67,14 +67,13 @@
 
 - <img src="./img/graduation.png" alt="Graduation Cap" width="25" height="25"/> Graduated as System Analist (UNOPAR) and degree in System Engineering (UNIMONTES).
 
-<div class="row" align="center">
+---
+<!--- Dev Card e Avatar -->
+<!--- <div class="row" align="center">
   <div class="column">
-    <!-- <img src="https://stackoverflow-card.vercel.app/?userID=16884312&theme=stackoverflow-dark" style="width:51%"> -->
-   <!-- <img src="https://github-profile-trophy.vercel.app/?username=mayannaoliveira&theme=monokai&row=2&column=3" alt="mayannaoliveira" style="width:35%"> -->
-    <img src="https://api.daily.dev/devcards/v2/vaxu1YcJUD9Ciru3l9X6S.png?type=default&r=u0h" width="180" alt="Mayanna Oliveira's Dev Card"/>
-    <img src="./img/hello.png" style="width:28%"> 
+    <img src="./img/hello.png" style="width:26%"> 
   </div>
-</div>
+</div> -->
  
 <h3 align="left"><img src="./img/rocket.png" alt="Rocket" width="25" height="25"/> Working</h3> 
 <p>
@@ -140,16 +139,7 @@ _Please, check on all of my badges in [Credly](https://www.credly.com/users/maya
 <a href="https://holopin.io/@mayannaoliveira">
     <img src="https://holopin.me/mayannaoliveira" alt="Holopin "align="center"/>
 </a>
-
-<!-- Status do repositório
-<p align="center">
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/forks/mayannaoliveira/mayannaoliveira.svg?style=social&label=Fork" alt="Forks"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/stars/mayannaoliveira/mayannaoliveira.svg?style=social&label=Star" alt="Star"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/watchers/mayannaoliveira/mayannaoliveira.svg?style=social&label=Watch" alt="Watch"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/github/followers/mayannaoliveira.svg?style=social&label=Follow" alt="Follow"/></a>
-<a href="https://github.com/mayannaoliveira/mayannaoliveira"><img src="https://img.shields.io/twitter/follow/oliveiramayanna.svg?style=social" alt="Twitter"/></a>
-</p> -->
-
+ 
 <!-- Github avatar / Try Hack Me-->
 </br>
 <div class="row" align="center">
