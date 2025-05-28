@@ -125,12 +125,14 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 ---
 
 <h3 align="left"><img src="./img/medal.png" alt="Credly" width="20" height="20"/> Credly Badges </h3>
+<a href="https://www.credly.com/users/mayannaoliveira">
+    <img src="https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=tokyonight" alt="Credly "align="center"/>
+</a>
 
 <!--START_SECTION:badges-->
-
 <!--END_SECTION:badges-->
 
-_Please, check on my badges in [Credly](https://www.credly.com/users/mayannaoliveira)._
+_Please, check on all of my badges in [Credly](https://www.credly.com/users/mayannaoliveira)._
  
 ---
 
