@@ -116,7 +116,7 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <h3 align="left"><img src="./img/clip.png" alt="clip" width="25" height="25"/> Todoist Status </h3>
 
 <!-- TODO-IST:START -->
-🏆  2,033 Karma Points           
+🏆  2,119 Karma Points           
 🌸  Completed 0 tasks today           
 ✅  Completed 80 tasks so far           
 ⏳  Longest streak is 1 days
