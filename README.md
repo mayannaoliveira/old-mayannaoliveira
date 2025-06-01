@@ -118,7 +118,6 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 </a>
 
 <!--START_SECTION:badges-->
-
 <!--END_SECTION:badges-->
 
 _Please, check on all of my badges in [Credly](https://www.credly.com/users/mayannaoliveira)._
