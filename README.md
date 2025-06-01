@@ -89,17 +89,6 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
   </div>
 </div>
 
-<h3 align="left"><img src="./img/tabs.png" alt="Tabs" width="25" height="25"/> Articles in DEV </h3>
-
- <!-- BLOG-POST-LIST:START -->
-- [Terminal do Windows com Oh My Posh](https://dev.to/mayannaoliveira/terminal-do-windows-com-oh-my-posh-14jm)
-- [Introdução aos Comandos Git](https://dev.to/mayannaoliveira/introducao-aos-comandos-git-3am7)
-- [Atualização do Ubuntu via Terminal](https://dev.to/mayannaoliveira/atualizacao-do-ubuntu-via-terminal-2mp9)
-- [Instalação do Docker no Ubuntu](https://dev.to/mayannaoliveira/instalacao-do-docker-no-ubuntu-3jej)
-<!-- BLOG-POST-LIST:END -->
-
-_Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
-
 --- 
 
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
@@ -127,6 +116,9 @@ _Please, read my articles in [Dev](https://dev.to/mayannaoliveira)._
 <a href="https://www.credly.com/users/mayannaoliveira">
     <img src="https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=tokyonight" alt="Credly "align="center"/>
 </a>
+<a href=" ">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me "align="center"/>
+</a>
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
@@ -140,11 +132,3 @@ _Please, check on all of my badges in [Credly](https://www.credly.com/users/maya
     <img src="https://holopin.me/mayannaoliveira" alt="Holopin "align="center"/>
 </a>
  
-<!-- Github avatar / Try Hack Me-->
-</br>
-<div class="row" align="center">
-  <div class="column">
-    <img src="./img/octocat-1701493235943.png" width="11%" alt="Github avatar"/>
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me"/>
-  </div>
-</div>
