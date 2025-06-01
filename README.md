@@ -116,11 +116,9 @@ I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and
 <a href="https://www.credly.com/users/mayannaoliveira">
     <img src="https://github-readme-widgets.vercel.app/api?username=mayannaoliveira&theme=tokyonight" alt="Credly "align="center"/>
 </a>
-<a href=" ">
-    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me "align="center"/>
-</a>
 
 <!--START_SECTION:badges-->
+
 <!--END_SECTION:badges-->
 
 _Please, check on all of my badges in [Credly](https://www.credly.com/users/mayannaoliveira)._
@@ -128,7 +126,13 @@ _Please, check on all of my badges in [Credly](https://www.credly.com/users/maya
 ---
 
 <!-- Holopin Board -->
+<p align="center">
 <a href="https://holopin.io/@mayannaoliveira">
     <img src="https://holopin.me/mayannaoliveira" alt="Holopin "align="center"/>
 </a>
- 
+    </p>
+<p align="center">
+<a href=" ">
+    <img src="https://tryhackme-badges.s3.amazonaws.com/mayannait.png" alt="Try Hack Me "align="center"/>
+</a>
+</p>
