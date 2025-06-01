@@ -11,5 +11,11 @@ jobs:
     steps:
       - name: Badges - Readme
         uses: pemtajo/badge-readme@main
-        with:       
-          CREDLY_USER: mayannaoliveira
+        with:
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          # REPOSITORY: <username>/<username> # optional, By default, it will automatically use the repository who's executing the workflow.
+          COMMIT_MESSAGE: "My commit message to update badges" # optional
+          CREDLY_USER: mayannaoliveira # optional, but default will use the same from github
+          CREDLY_SORT: RECENT # optional, this is the two forms from credly sort, more popular or recent first, by default use RECENT
+          BADGE_SIZE: 80x80 # optional, 110x110 default
+          NUMBER_LAST_BADGES: 20 # optional, will show the 48 in the first page
