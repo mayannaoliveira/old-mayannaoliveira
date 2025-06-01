@@ -4,19 +4,13 @@
 
 <p align="center">
     <a href="https://discordapp.com/users/728043170226503721">
-    <img alt="Discord" src="https://img.shields.io/badge/Discord_mayannaoliveira-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=flat&logo=discord&logoColor=white"/>
     </a>
     <a href="https://bio.link/mayanna">
     <img alt="Bio link" src="https://img.shields.io/badge/Bio%20Link-000000.svg?style=flat&logo=Bio-Link&logoColor=white"/>
     </a>
-    <a href="https://www.linkedin.com/in/mayannaoliveira/">
-    <img alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat&logo=linkedin&logoColor=white"/>
-    </a>
     <a href="https://www.credly.com/users/mayannaoliveira/">
     <img alt="Credly" src="https://img.shields.io/badge/Credly-FF6B00.svg?style=flat&logo=Credly&logoColor=white"/>
-    </a>
-    <a href="https://dev.to/mayannaoliveira">
-    <img alt="DEV" src="https://img.shields.io/badge/dev.to-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white"/>
     </a>
     <a href=mailto:mayannasoliveira@gmail.com>
     <img alt="linkedin" src="https://img.shields.io/badge/Gmail-EA4335.svg?style=flat&logo=Gmail&logoColor=white"/>
@@ -27,18 +21,12 @@
     <a href="https://stackoverflow.com/users/16884312/mayanna">
     <img alt="StackOverflow" src="https://img.shields.io/badge/Stack%20Overflow-F58025.svg?style=flat&logo=Stack-Overflow&logoColor=white"/>
     </a>
-    <a href="https://wa.me/5571992651308">
-    <img alt="Whatsapp" src="https://img.shields.io/badge/Whatsapp%20+5571992651308-green.svg?style=flat&logo=Whatsapp&logoColor=white">    
-    </a>
       <a href="https://tryhackme.com/p/mayannait">
     <img alt="Try Hack Me" src="https://img.shields.io/badge/TryHackMe-212C42.svg?style=flat&logo=TryHackMe&logoColor=white"/>
     </a>
 </p> 
 
-<p align="center">
-    <a href="https://bio.link/mayanna">
-    <img alt="Mayanna Oliveira" src="img/cover.png"/>
-    </a></p> 
+---
 
 - <img src="./img/compass.png" alt="Compass" width="25" height="25"/> I’m currently learning more about ![Sap](https://img.shields.io/badge/SAP-0FAAFF.svg?style=flat&logo=SAP&logoColor=white), ![Puppeteer](https://img.shields.io/badge/Puppeteer-40B5A4.svg?style=flat&logo=Puppeteer&logoColor=white), ![Rust](https://img.shields.io/badge/Rust-000000.svg?style=flat&logo=Rust&logoColor=white) and ![Go](https://img.shields.io/badge/Go-00ADD8.svg?style=flat&logo=Go&logoColor=white).
 - <img src="./img/tech-girl.png" alt="Tech" width="25" height="25"/> I regularly write articles in [![devto](https://img.shields.io/badge/DEV-0A0A0A.svg?style=flat&logo=devdotto&logoColor=white)](https://dev.to/mayannaoliveira).
@@ -68,19 +56,13 @@
 - <img src="./img/graduation.png" alt="Graduation Cap" width="25" height="25"/> Graduated as System Analist (UNOPAR) and degree in System Engineering (UNIMONTES).
 
 ---
-<!--- Dev Card e Avatar -->
-<!--- <div class="row" align="center">
-  <div class="column">
-    <img src="./img/hello.png" style="width:26%"> 
-  </div>
-</div> -->
- 
+
 <h3 align="left"><img src="./img/rocket.png" alt="Rocket" width="25" height="25"/> Working</h3> 
 <p>
 I'm working as IT Freelancer testing some kind of websites, APIs, ecommerces and apps.
 </p>
 
-  ![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) ![ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=Ruby&logoColor=white) ![cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=flat&logo=Cucumber&logoColor=white) ![jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=flat&logo=Jekyll&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white) ![Mantis](https://custom-icon-badges.demolab.com/badge/Mantis%20Bug%20Tracker-557C55.svg?logo=bug) ![RM](https://custom-icon-badges.demolab.com/badge/Revenue%20Management-blue.svg?logo=devices) ![PuTTY](https://custom-icon-badges.demolab.com/badge/PuTTY-grey.svg?logo=code-square) ![winscp](https://custom-icon-badges.demolab.com/badge/WinSCP-blue.svg?logo=arrow-switch) ![jira](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=flat&logo=Jira-Software&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat&logo=Windows&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A.svg?style=flat&logo=Selenium&logoColor=white) ![Apache-JMeter](https://img.shields.io/badge/Apache%20JMeter-D22128.svg?style=flat&logo=Apache-JMeter&logoColor=white) ![SoapUI](https://img.shields.io/badge/SoapUI-yellow.svg?style=flat&logo=Swagger&logoColor=black) ![Postman](https://img.shields.io/badge/Postman-DD3A0A.svg?style=flat&logo=Postman&logoColor=white) ![insomia](https://img.shields.io/badge/Insomnia-4000BF.svg?style=flat&logo=Insomnia&logoColor=white) ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=flat&logo=Visual-Studio-Code&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB.svg?style=flat&logo=Python&logoColor=white) ![ruby](https://img.shields.io/badge/Ruby-CC342D.svg?style=flat&logo=Ruby&logoColor=white) ![cucumber](https://img.shields.io/badge/Cucumber-23D96C.svg?style=flat&logo=Cucumber&logoColor=white) ![jekyll](https://img.shields.io/badge/Jekyll-CC0000.svg?style=flat&logo=Jekyll&logoColor=white) ![git](https://img.shields.io/badge/Git-F05032.svg?style=flat&logo=Git&logoColor=white) ![docker](https://img.shields.io/badge/Docker-2496ED.svg?style=flat&logo=Docker&logoColor=white) ![Mantis](https://custom-icon-badges.demolab.com/badge/Mantis%20Bug%20Tracker-557C55.svg?logo=bug) ![RM](https://custom-icon-badges.demolab.com/badge/Revenue%20Management-blue.svg?logo=devices) ![PuTTY](https://custom-icon-badges.demolab.com/badge/PuTTY-grey.svg?logo=code-square) ![winscp](https://custom-icon-badges.demolab.com/badge/WinSCP-blue.svg?logo=arrow-switch) ![jira](https://img.shields.io/badge/Jira%20Software-0052CC.svg?style=flat&logo=Jira-Software&logoColor=white) ![ubuntu](https://img.shields.io/badge/Ubuntu-E95420.svg?style=flat&logo=Ubuntu&logoColor=white) ![windows](https://img.shields.io/badge/Windows-0078D4.svg?style=flat&logo=Windows&logoColor=white) ![android](https://img.shields.io/badge/Android-3DDC84.svg?style=flat&logo=Android&logoColor=white)
   
 <div class="row" align="center">
   <div class="column">
