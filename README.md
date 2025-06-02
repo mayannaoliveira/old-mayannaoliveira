@@ -1,7 +1,6 @@
 
-⚠️ _It's my old profile, the new one is running as mayannaoliveira. I decided to keep the old one just to test new readme things. Thank you!_
-
----
+> [!IMPORTANT]
+> This is my old profile, the new one is running as mayannaoliveira. I decided to keep the old one just to test new readme things. Thank you!
 
 <h3 align="center">Hi <img src="./img/handshake.png" alt="Handshake" width="25" height="25"/>, I'm Mayanna Silva Oliveira</h1>
 <h5 align="center">A System Analyst graduated in System Analysis and Development with a degree in System Engineering and certified CTFL-ISTQB® that is actually working as IT Freelancer.
