@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/mayannaoliveira/readme-de-sucesso/pull/1) in [mayannaoliveira/readme-de-sucesso](https://github.com/mayannaoliveira/readme-de-sucesso)
-2. 💪 Opened PR [#1](https://github.com/mayannaoliveira/readme-de-sucesso/pull/1) in [mayannaoliveira/readme-de-sucesso](https://github.com/mayannaoliveira/readme-de-sucesso)
+1. ❗ Opened issue [#2449](https://github.com/JessicaLim8/JessicaLim8/issues/2449) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+2. ❗ Opened issue [#2448](https://github.com/JessicaLim8/JessicaLim8/issues/2448) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
 <!--END_SECTION:activity-->
 
 ---
