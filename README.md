@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/mayannaoliveira/testing-readme/pull/2) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
-2. 💪 Opened PR [#2](https://github.com/mayannaoliveira/testing-readme/pull/2) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+1. 💪 Opened PR [#3](https://github.com/mayannaoliveira/testing-readme/pull/3) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
+2. 🔒 Closed issue [#1](https://github.com/mayannaoliveira/testing-readme/issues/1) in [mayannaoliveira/testing-readme](https://github.com/mayannaoliveira/testing-readme)
 <!--END_SECTION:activity-->
 
 ---
