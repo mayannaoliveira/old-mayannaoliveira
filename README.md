@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-2951555016) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
-2. ❗ Opened issue [#2449](https://github.com/JessicaLim8/JessicaLim8/issues/2449) in [JessicaLim8/JessicaLim8](https://github.com/JessicaLim8/JessicaLim8)
+1. 💪 Opened PR [#1](https://github.com/peanuts735/training-repository/pull/1) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
+2. 🎉 Merged PR [#1](https://github.com/mayannaoliveira/training-repository/pull/1) in [mayannaoliveira/training-repository](https://github.com/mayannaoliveira/training-repository)
 <!--END_SECTION:activity-->
 
 ---
