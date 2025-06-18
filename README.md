@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#1](https://github.com/peanuts735/training-repository/pull/1#issuecomment-2975038524) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
-2. ❌ Closed PR [#1](https://github.com/peanuts735/training-repository/pull/1) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
+1. 💪 Opened PR [#2](https://github.com/peanuts735/training-repository/pull/2) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
+2. 🗣 Commented on [#1](https://github.com/peanuts735/training-repository/pull/1#issuecomment-2975038524) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
 <!--END_SECTION:activity-->
 
 ---
