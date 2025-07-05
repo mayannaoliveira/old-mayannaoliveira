@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#2](https://github.com/xiaohuohumax/readme-widget-hub/pull/2) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
-2. 💪 Opened PR [#3](https://github.com/peanuts735/training-repository/pull/3) in [peanuts735/training-repository](https://github.com/peanuts735/training-repository)
+1. 🗣 Commented on [#3309](https://github.com/alacritty/alacritty/issues/3309#issuecomment-3037576554) in [alacritty/alacritty](https://github.com/alacritty/alacritty)
+2. 💪 Opened PR [#2](https://github.com/xiaohuohumax/readme-widget-hub/pull/2) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
 <!--END_SECTION:activity-->
 
 ---
