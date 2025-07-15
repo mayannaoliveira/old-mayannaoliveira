@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#6](https://github.com/xiaohuohumax/readme-widget-hub/pull/6) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
-2. 💪 Opened PR [#5](https://github.com/xiaohuohumax/readme-widget-hub/pull/5) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
+1. 💪 Opened PR [#2](https://github.com/samba9274/hackerrank-readme-stats/pull/2) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
+2. 💪 Opened PR [#6](https://github.com/xiaohuohumax/readme-widget-hub/pull/6) in [xiaohuohumax/readme-widget-hub](https://github.com/xiaohuohumax/readme-widget-hub)
 <!--END_SECTION:activity-->
 
 ---
