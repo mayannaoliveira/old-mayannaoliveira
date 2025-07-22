@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/samba9274/hackerrank-readme-stats/pull/2#issuecomment-3094683067) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
-2. ❗ Opened issue [#135](https://github.com/maxam2017/productive-box/issues/135) in [maxam2017/productive-box](https://github.com/maxam2017/productive-box)
+1. 💪 Opened PR [#1567](https://github.com/abhisheknaiidu/awesome-github-profile-readme/pull/1567) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+2. 🗣 Commented on [#2](https://github.com/samba9274/hackerrank-readme-stats/pull/2#issuecomment-3094683067) in [samba9274/hackerrank-readme-stats](https://github.com/samba9274/hackerrank-readme-stats)
 <!--END_SECTION:activity-->
 
 ---
