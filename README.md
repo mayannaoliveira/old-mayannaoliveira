@@ -75,9 +75,9 @@
 <h3 align="left"><img src="./img/clip.png" alt="clip" width="25" height="25"/> Todoist Status </h3>
 
 <!-- TODO-IST:START -->
-🏆  2,741 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 113 tasks so far           
+🏆  2,765 Karma Points           
+🌸  Completed 6 tasks today           
+✅  Completed 118 tasks so far           
 ⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
 
