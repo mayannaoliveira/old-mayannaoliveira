@@ -65,8 +65,8 @@
 <h3 align="left"><img src="./img/disk.png" alt="Disk" width="25" height="25"/> Recent Activity </h3>
 
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#31](https://github.com/Chhunneng/programming-starters-project/pull/31) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
-2. 💪 Opened PR [#1300](https://github.com/Difegue/LANraragi/pull/1300) in [Difegue/LANraragi](https://github.com/Difegue/LANraragi)
+1. 🗣 Commented on [#23](https://github.com/anmol098/waka-readme-stats/issues/23#issuecomment-3197253559) in [anmol098/waka-readme-stats](https://github.com/anmol098/waka-readme-stats)
+2. 💪 Opened PR [#31](https://github.com/Chhunneng/programming-starters-project/pull/31) in [Chhunneng/programming-starters-project](https://github.com/Chhunneng/programming-starters-project)
 <!--END_SECTION:activity-->
 
 ---
